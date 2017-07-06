@@ -71,4 +71,7 @@ Let me know if you have any questions at mkusner AT wustl DOT edu. Please cite u
        author={Kusner, M. J. and Sun, Y. and Kolkin, N. I. and Weinberger, K. Q.}, 
        booktitle={ICML}, 
        year={2015}, 
-    } 
+    }
+
+## Modifications
+ 
